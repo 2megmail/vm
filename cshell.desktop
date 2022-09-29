@@ -1,0 +1,12 @@
+[Desktop Entry]
+Type=Application
+Name=VPN
+Exec=sudo "/usr/local/bin/vpn.sh" -s -c "/opt/chroot" start
+Icon=transform-rotate
+Comment=
+X-GNOME-Autostart-enabled=true
+X-KDE-autostart-after=panel
+X-KDE-StartupNotify=false
+StartupNotify=false
+Path=
+Terminal=true
