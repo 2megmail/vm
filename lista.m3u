@@ -1,0 +1,303 @@
+#EXTM3U
+#EXTINF:-1 tvg-name="APARECIDA HD 4k" tvg-id="https://api.miboia.com/miboia/epg/files/xmltv_Aparecida.xml" tvg-logo="https://api.miboia.com/miboia/img/logo/tv-aparecida-br.png" group-title="BN_Abertos",APARECIDA HD 4k
+http://peer2.miboia.com:2082/APARECIDA_FHD/index.m3u8
+#EXTINF:-1 tvg-name="ARTE 1 HD" tvg-id="https://api.miboia.com/miboia/epg/files/xmltv_Arte1.xml" tvg-logo="https://img.miboia.com/api_v4/freesky/image/Arte1.png" group-title="BN_Abertos",ARTE 1 HD
+http://peer2.miboia.com:2082/ARTE1_HD_N/index.m3u8
+#EXTINF:-1 tvg-name="ARTE 1 HD 4K" tvg-id="https://api.miboia.com/miboia/epg/files/xmltv_Arte1.xml" tvg-logo="https://img.miboia.com/api_v4/freesky/image/Arte1.png" group-title="BN_Abertos",ARTE 1 HD 4K
+http://peer2.miboia.com:2082/ARTE1_FHD/index.m3u8
+#EXTINF:-1 tvg-name="BAND HD" tvg-id="https://api.miboia.com/miboia/epg/files/xmltv_Band.xml" tvg-logo="https://api.miboia.com/miboia/img/logo/band-br.png" group-title="BN_Abertos",BAND HD
+http://peer2.miboia.com:2082/BAND_HD_N/index.m3u8
+#EXTINF:-1 tvg-name="BAND HD 4K" tvg-id="https://api.miboia.com/miboia/epg/files/xmltv_Band.xml" tvg-logo="https://api.miboia.com/miboia/img/logo/band-br.png" group-title="BN_Abertos",BAND HD 4K
+http://peer2.miboia.com:2082/BAND_FHD/index.m3u8
+#EXTINF:-1 tvg-name="GLOBO MINAS HD 4K" tvg-id="https://api.miboia.com/epg/brazil/gbh_xmltv.xml" tvg-logo="http://2.bp.blogspot.com/-Zz-hQe5QF2U/XH--SXFrVsI/AAAAAAAAHaM/1eLdnRQE8BQGo2GdyN5gIPds-o4FhAb4gCK4BGAYYCw/s1600/globobh.png" group-title="BN_Abertos",GLOBO MINAS HD 4K
+http://peer2.miboia.com:2082/GLOBOMINAS_FHD/index.m3u8
+#EXTINF:-1 tvg-name="GLOBO NORDESTE HD 4K" tvg-id="https://api.miboia.com/epg/brazil/gpf_xmltv.xml" tvg-logo="http://3.bp.blogspot.com/-mHSS2R0-2aI/XH--uI1ZTeI/AAAAAAAAHag/79cr5O2uPpIokE6Yk8uvfPkLd9hRSXPzwCK4BGAYYCw/s320/globone.png" group-title="BN_Abertos",GLOBO NORDESTE HD 4K
+http://peer2.miboia.com:2082/GLOBONORDESTE_FHD/index.m3u8
+#EXTINF:-1 tvg-name="GLOBO RBS POA HD  4K" tvg-id="https://api.miboia.com/epg/brazil/poa_xmltv.xml" tvg-logo="https://api.miboia.com/logos/icon2/rbstvportoalegre.png" group-title="BN_Abertos",GLOBO RBS POA HD  4K
+http://peer2.miboia.com:2082/RBSPOA_FHD/index.m3u8
+#EXTINF:-1 tvg-name="GLOBO RJ HD 4K" tvg-id="https://api.miboia.com/epg/brazil/grj_xmltv.xml" tvg-logo="http://2.bp.blogspot.com/-vbUN9Fv3YGo/XH--e4Ax4HI/AAAAAAAAHaU/giUBEnExDKcwyy7IL2ONJeF9sMYaftjMQCK4BGAYYCw/s1600/globorj.png" group-title="BN_Abertos",GLOBO RJ HD 4K
+http://peer2.miboia.com:2082/GLOBORJ_FHD/index.m3u8
+#EXTINF:-1 tvg-name="GLOBO RPC CURITIBA HD 4K" tvg-id="https://api.miboia.com/epg/brazil/Rpc_Curitiba.xml" tvg-logo="https://api.miboia.com/logos/icon2/rpctv.png" group-title="BN_Abertos",GLOBO RPC CURITIBA HD 4K
+http://peer2.miboia.com:2082/RPCCWB_FHD/index.m3u8
+#EXTINF:-1 tvg-name="GLOBO SP HD 4K" tvg-id="https://api.miboia.com/miboia/epg/files/xmltv_Globo_SP.xml" tvg-logo="http://2.bp.blogspot.com/-kNXwvxhSF4g/XHqYJmCHxZI/AAAAAAAAHY4/krb-uf2oXaMYp5iO_SftZ68dXUBIAZD3wCK4BGAYYCw/s1600/globosp%2B%25281%2529.png" group-title="BN_Abertos",GLOBO SP HD 4K
+http://peer2.miboia.com:2082/GLOBOSP_FHD/index.m3u8
+#EXTINF:-1 tvg-name="GLOBO VERDES MARES HD 4K" tvg-id="https://api.miboia.com/epg/brazil/verdesmares.xml" tvg-logo="https://img.miboia.com/api_v4/freesky/image/tvverdesmares.png" group-title="BN_Abertos",GLOBO VERDES MARES HD 4K
+http://peer2.miboia.com:2082/VERDESMARES_FHD/index.m3u8
+#EXTINF:-1 tvg-name="RECORD TV HD 4K" tvg-id="https://api.miboia.com/miboia/epg/files/xmltv_Record_TV.xml" tvg-logo="https://api.miboia.com/logos/icon2/rederecord.png" group-title="BN_Abertos",RECORD TV HD 4K
+http://peer2.miboia.com:2082/RECORDNACIO_FHD/index.m3u8
+#EXTINF:-1 tvg-name="REDETV! HD 4K" tvg-id="https://api.miboia.com/miboia/epg/files/xmltv_RedeTV.xml" tvg-logo="https://api.miboia.com/logos/icon2/redetvalternativo.png" group-title="BN_Abertos",REDETV! HD 4K
+http://peer2.miboia.com:2082/REDETV_FHD/index.m3u8
+#EXTINF:-1 tvg-name="SBT HD 4K" tvg-id="https://api.miboia.com/miboia/epg/files/xmltv_SBT.xml" tvg-logo="https://api.miboia.com/logos/icon2/sbt.png" group-title="BN_Abertos",SBT HD 4K
+http://peer2.miboia.com:2082/SBT_FHD/index.m3u8
+#EXTINF:-1 tvg-name="TV GAZETA HD" tvg-id="https://api.miboia.com/epg/brazil/gaz_xmltv.xml" tvg-logo="https://api.miboia.com/logos/icon2/tvgazeta.png" group-title="BN_Abertos",TV GAZETA HD
+http://peer2.miboia.com:2082/GAZETASP_FHD/index.m3u8
+#EXTINF:-1 tvg-name="GLOBO RPC FOZ HD 4K" tvg-id="https://api.miboia.com/epg/brazil/Rpc_Curitiba.xml" tvg-logo="https://api.miboia.com/logos/icon2/rpctv.png" group-title="BN_Abertos",GLOBO RPC FOZ HD 4K
+http://peer2.miboia.com:2082/RPCFOZ_FHD/index.m3u8
+#EXTINF:-1 tvg-name="BAND TAROBA HD 4K" tvg-id="https://api.miboia.com/miboia/epg/files/xmltv_Band.xml" tvg-logo="https://api.miboia.com/miboia/img/logo/taroba.png" group-title="BN_Abertos",BAND TAROBA HD 4K
+http://peer2.miboia.com:2082/TAROBA_FHD/index.m3u8
+#EXTINF:-1 tvg-name="RIC TV HD 4K" tvg-id="https://api.miboia.com/miboia/epg/files/xmltv_Record_TV.xml" tvg-logo="https://api.miboia.com/miboia/img/logo/Rictv.png" group-title="BN_Abertos",RIC TV HD 4K
+http://peer2.miboia.com:2082/RICTV_FHD/index.m3u8
+#EXTINF:-1 tvg-name="SBT REDE MASSA HD 4K" tvg-id="https://api.miboia.com/miboia/epg/files/xmltv_SBT.xml" tvg-logo="https://api.miboia.com/miboia/img/logo/rede-massa.png" group-title="BN_Abertos",SBT REDE MASSA HD 4K
+http://peer2.miboia.com:2082/REDEMASSA_FHD/index.m3u8
+#EXTINF:-1 tvg-name="A. PLANET HD" tvg-id="https://api.miboia.com/miboia/epg/files/xmltv_Animal_Planet.xml" tvg-logo="https://api.miboia.com/miboia/img/logo/animal-planet.png" group-title="BN_Cultura",A. PLANET HD
+http://peer2.miboia.com:2082/__ANIMALPLANET/index.m3u8
+#EXTINF:-1 tvg-name="A. PLANET HD 4K" tvg-id="https://api.miboia.com/miboia/epg/files/xmltv_Animal_Planet.xml" tvg-logo="https://api.miboia.com/miboia/img/logo/animal-planet.png" group-title="BN_Cultura",A. PLANET HD 4K
+http://peer2.miboia.com:2082/APLANET_FHD/index.m3u8
+#EXTINF:-1 tvg-name="DISC H&H HD 4K" tvg-id="https://api.miboia.com/epg/brazil/hea_xmltv.xml" tvg-logo="https://img.miboia.com/api_v4/freesky/image/DiscoveryHH.png" group-title="BN_Cultura",DISC H&H HD 4K
+http://peer2.miboia.com:2082/DISCHH_FHD/index.m3u8
+#EXTINF:-1 tvg-name="DISC SCIENCE HD 4K" tvg-id="https://api.miboia.com/miboia/epg/files/xmltv_Discovery_Science.xml" tvg-logo="https://api.miboia.com/logos/icon2/discoveryscience.png" group-title="BN_Cultura",DISC SCIENCE HD 4K
+http://peer2.miboia.com:2082/DISCSCIENCE_FHD/index.m3u8
+#EXTINF:-1 tvg-name="DISC THEATER HD 4K" tvg-id="https://api.miboia.com/miboia/epg/files/xmltv_Discovery_Theater_HD.xml" tvg-logo="https://api.miboia.com/logos/icon2/discoverytheaterhd.png" group-title="BN_Cultura",DISC THEATER HD 4K
+http://peer2.miboia.com:2082/DISCTHEATER_FHD/index.m3u8
+#EXTINF:-1 tvg-name="DISC TURBO HD 4K" tvg-id="https://api.miboia.com/miboia/epg/files/xmltv_Discovery_Turbo_HD.xml" tvg-logo="https://img.miboia.com/api_v4/freesky/image/DiscoveryTurbo.png" group-title="BN_Cultura",DISC TURBO HD 4K
+http://peer2.miboia.com:2082/DISTURBO_FHD/index.m3u8
+#EXTINF:-1 tvg-name="DISC WORLD HD 4K" tvg-id="https://api.miboia.com/miboia/epg/files/xmltv_Discovery_World_HD.xml" tvg-logo="https://api.miboia.com/logos/icon2/discoveryworldhd.png" group-title="BN_Cultura",DISC WORLD HD 4K
+http://peer2.miboia.com:2082/DISCWORLD_FHD/index.m3u8
+#EXTINF:-1 tvg-name="DISCOVERY CHANNEL HD 4K" tvg-id="https://api.miboia.com/miboia/epg/files/xmltv_Discovery_Channel_HD.xml" tvg-logo="https://img.miboia.com/api_v4/freesky/image/DiscoverY.png" group-title="BN_Cultura",DISCOVERY CHANNEL HD 4K
+http://peer2.miboia.com:2082/DISCCHANNEL_FHD/index.m3u8
+#EXTINF:-1 tvg-name="FUTURA HD 4K" tvg-id="https://api.miboia.com/miboia/epg/files/xmltv_Futura.xml" tvg-logo="https://api.miboia.com/logos/icon2/futura.png" group-title="BN_Cultura",FUTURA HD 4K
+http://peer2.miboia.com:2082/FUTURA_FHD/index.m3u8
+#EXTINF:-1 tvg-name="H2 HD 4K" tvg-id="https://api.miboia.com/epg/brazil/ch1_xmltv.xml" tvg-logo="https://api.miboia.com/logos/icon2/h2hd.png" group-title="BN_Cultura",H2 HD 4K
+http://peer2.miboia.com:2082/H2_FHD/index.m3u8
+#EXTINF:-1 tvg-name="HGTV HD 4K" tvg-id="https://api.miboia.com/miboia/epg/files/xmltv_HGTV.xml" tvg-logo="https://img.miboia.com/api_v4/freesky/image/hgtv.png" group-title="BN_Cultura",HGTV HD 4K
+http://peer2.miboia.com:2082/HGTV_FHD/index.m3u8
+#EXTINF:-1 tvg-name="HISTORY HD 4K" tvg-id="https://api.miboia.com/epg/brazil/his_xmltv.xml" tvg-logo="https://api.miboia.com/logos/icon2/historyhd.png" group-title="BN_Cultura",HISTORY HD 4K
+http://peer2.miboia.com:2082/HISTORY_FHD/index.m3u8
+#EXTINF:-1 tvg-name="ID HD 4K" tvg-id="https://api.miboia.com/miboia/epg/files/xmltv_ID.xml" tvg-logo="https://api.miboia.com/logos/icon2/idhd.png" group-title="BN_Cultura",ID HD 4K
+http://peer2.miboia.com:2082/ID_FHD/index.m3u8
+#EXTINF:-1 tvg-name="MODO VIAGEM HD 4K" tvg-id="https://api.miboia.com/miboia/epg/files/xmltv_Modo_Viagem.xml" tvg-logo="https://api.miboia.com/miboia/img/logo/modo-viagem-br.png" group-title="BN_Cultura",MODO VIAGEM HD 4K
+http://peer2.miboia.com:2082/MODOVIAGEM_FHD/index.m3u8
+#EXTINF:-1 tvg-name="NATGEO HD 4K" tvg-id="https://api.miboia.com/miboia/epg/files/xmltv_NatGeo_HD.xml" tvg-logo="https://api.miboia.com/logos/icon2/nationalgeographic.png" group-title="BN_Cultura",NATGEO HD 4K
+http://peer2.miboia.com:2082/NATGEO_FHD/index.m3u8
+#EXTINF:-1 tvg-name="TLC HD 4K" tvg-id="https://api.miboia.com/miboia/epg/files/xmltv_TLC.xml" tvg-logo="https://api.miboia.com/logos/icon2/tlchd.png" group-title="BN_Cultura",TLC HD 4K
+http://peer2.miboia.com:2082/TLC_FHD/index.m3u8
+#EXTINF:-1 tvg-name="ADULT SWIM HD" tvg-id="https://api.miboia.com/miboia/epg/files/xmltv_Adult_Swim.xml" tvg-logo="https://api.miboia.com/miboia/img/logo/adult-swim.png" group-title="BN_Entretenimento",ADULT SWIM HD
+http://peer2.miboia.com:2082/ADULTSWIM_FHD/index.m3u8
+#EXTINF:-1 tvg-name="BIS HD 4K" tvg-id="https://api.miboia.com/miboia/epg/files/xmltv_BIS_HD.xml" tvg-logo="https://img.miboia.com/api_v4/freesky/image/BIS.png" group-title="BN_Entretenimento",BIS HD 4K
+http://peer2.miboia.com:2082/BIS_FHD/index.m3u8
+#EXTINF:-1 tvg-name="BBB1 HD 4K" tvg-id="https://api.miboia.com/miboia/epg/files/xmltv_BBB_HD_1.xml" tvg-logo="https://img.miboia.com/miboia/img/logo/BBB.png" group-title="BN_Entretenimento",BBB1 HD 4K
+http://peer2.miboia.com:2082/BBB_FHD/index.m3u8
+#EXTINF:-1 tvg-name="CANAL SONY HD 4K" tvg-id="https://api.miboia.com/epg/brazil/seh_xmltv.xml" tvg-logo="https://img.miboia.com/api_v4/freesky/image/SonyChanneL.png" group-title="BN_Entretenimento",CANAL SONY HD 4K
+http://peer2.miboia.com:2082/SONY_FHD/index.m3u8
+#EXTINF:-1 tvg-name="CURTA! HD 4K" tvg-id="https://api.miboia.com/miboia/epg/files/xmltv_Curta_.xml" tvg-logo="https://api.miboia.com/logos/icon2/curta.png" group-title="BN_Entretenimento",CURTA! HD 4K
+http://peer2.miboia.com:2082/CURTA_FHD/index.m3u8
+#EXTINF:-1 tvg-name="FISH TV HD 4K" tvg-id="https://api.miboia.com/miboia/epg/files/xmltv_Fish_TV.xml" tvg-logo="https://api.miboia.com/logos/img_white/fishtv.png" group-title="BN_Entretenimento",FISH TV HD 4K
+http://peer2.miboia.com:2082/FISHTV_FHD/index.m3u8
+#EXTINF:-1 tvg-name="FOOD NETWORK HD 4K" tvg-id="https://api.miboia.com/miboia/epg/files/xmltv_Food_Network.xml" tvg-logo="https://img.miboia.com/api_v4/freesky/image/FoodNetwork.png" group-title="BN_Entretenimento",FOOD NETWORK HD 4K
+http://peer2.miboia.com:2082/FOODNETWORK_FHD/index.m3u8
+#EXTINF:-1 tvg-name="GNT HD 4K" tvg-id="https://api.miboia.com/miboia/epg/files/xmltv_GNT_HD.xml" tvg-logo="https://api.miboia.com/logos/icon2/gnthd.png" group-title="BN_Entretenimento",GNT HD 4K
+http://peer2.miboia.com:2082/GNT_FHD/index.m3u8
+#EXTINF:-1 tvg-name="MTV HD 4K" tvg-id="https://api.miboia.com/miboia/epg/files/xmltv_MTV.xml" tvg-logo="https://img.miboia.com/api_v4/freesky/image/mtv.png" group-title="BN_Entretenimento",MTV HD 4K
+http://peer2.miboia.com:2082/MTV_FHD/index.m3u8
+#EXTINF:-1 tvg-name="PRIMEBOX HD 4K" tvg-id="https://api.miboia.com/miboia/epg/files/xmltv_Prime_Box_Brazil.xml" tvg-logo="https://api.miboia.com/img/primebox.png" group-title="BN_Entretenimento",PRIMEBOX HD 4K
+http://peer2.miboia.com:2082/PRIMEBOX_FHD/index.m3u8
+#EXTINF:-1 tvg-name="VIVA HD 4K" tvg-id="https://api.miboia.com/miboia/epg/files/xmltv_Viva_HD.xml" tvg-logo="https://api.miboia.com/logos/icon2/vivahd.png" group-title="BN_Entretenimento",VIVA HD 4K
+http://peer2.miboia.com:2082/VIVA_FHD/index.m3u8
+#EXTINF:-1 tvg-name="ALLSPORTS HD" tvg-id="https://api.miboia.com/miboia/epg/files/xmltv_Viva_HD.xml" tvg-logo="http://i.imgur.com/wULpnYR.png" group-title="BN_Esportes",ALLSPORTS HD
+http://peer2.miboia.com:2082/AllSports/index.m3u8
+#EXTINF:-1 tvg-name="BAND SPORTS HD 4K" tvg-id="https://api.miboia.com/miboia/epg/files/xmltv_BandSports_HD.xml" tvg-logo="https://api.miboia.com/miboia/img/logo/band-sports-br.png" group-title="BN_Esportes",BAND SPORTS HD 4K
+http://peer2.miboia.com:2082/BANDSPORTS_FHD/index.m3u8
+#EXTINF:-1 tvg-name="COMBATE HD" tvg-id="https://api.miboia.com/miboia/epg/files/xmltv_Combate.xml" tvg-logo="https://img.miboia.com/logos/img_white/combate.png" group-title="BN_Esportes",COMBATE HD
+http://peer2.miboia.com:2082/__COMBATE/index.m3u8
+#EXTINF:-1 tvg-name="COMBATE HD 4K" tvg-id="https://api.miboia.com/miboia/epg/files/xmltv_Combate.xml" tvg-logo="https://img.miboia.com/logos/img_white/combate.png" group-title="BN_Esportes",COMBATE HD 4K
+http://peer2.miboia.com:2082/COMBATE_FHD/index.m3u8
+#EXTINF:-1 tvg-name="ESPN HD 4K" tvg-id="https://api.miboia.com/miboia/epg/files/xmltv_ESPN.xml" tvg-logo="https://api.miboia.com/miboia/img/logo/espn-br.png" group-title="BN_Esportes",ESPN HD 4K
+http://peer2.miboia.com:2082/ESPN_FHD/index.m3u8
+#EXTINF:-1 tvg-name="ESPN2 HD 4K" tvg-id="https://api.miboia.com/miboia/epg/files/xmltv_ESPN2.xml" tvg-logo="https://api.miboia.com/miboia/img/logo/espn-2-br.png" group-title="BN_Esportes",ESPN2 HD 4K
+http://peer2.miboia.com:2082/ESPN2_FHD/index.m3u8
+#EXTINF:-1 tvg-name="ESPN3 HD 4K" tvg-id="https://api.miboia.com/miboia/epg/files/xmltv_ESPN3.xml" tvg-logo="https://api.miboia.com/miboia/img/logo/espn-3-br.png" group-title="BN_Esportes",ESPN3 HD 4K
+http://peer2.miboia.com:2082/ESPN3_FHD/index.m3u8
+#EXTINF:-1 tvg-name="ESPN4 HD 4K" tvg-id="https://api.miboia.com/miboia/epg/files/xmltv_ESPN4.xml" tvg-logo="https://api.miboia.com/miboia/img/logo/espn-4-br.png" group-title="BN_Esportes",ESPN4 HD 4K
+http://peer2.miboia.com:2082/ESPN4_FHD/index.m3u8
+#EXTINF:-1 tvg-name="ESPN5 HD 4K" tvg-id="https://api.miboia.com/miboia/epg/files/xmltv_FOX_Sports_2_HD.xml" tvg-logo="https://img.miboia.com/miboia/img/logo/espn-5-br.png" group-title="BN_Esportes",ESPN5 HD 4K
+http://peer2.miboia.com:2082/ESPN5_FHD/index.m3u8
+#EXTINF:-1 tvg-name="OFF HD 4K" tvg-id="https://api.miboia.com/epg/brazil/off_xmltv.xml" tvg-logo="http://github.com/DESIGNER-BG/Logos-Canais-TV/blob/master/Off.png?raw=true" group-title="BN_Esportes",OFF HD 4K
+http://peer2.miboia.com:2082/OFF_FHD/index.m3u8
+#EXTINF:-1 tvg-name="PREMIERE 1 HD 4K" tvg-id="https://api.miboia.com/miboia/epg/files/xmltv_Premiere_Clubes_HD.xml" tvg-logo="https://api.miboia.com/miboia/img/logo/premiere_1.png" group-title="BN_Esportes",PREMIERE 1 HD 4K
+http://peer2.miboia.com:2082/PFC1_FHD/index.m3u8
+#EXTINF:-1 tvg-name="PREMIERE 2 HD 4K" tvg-id="https://api.miboia.com/epg/brazil/premiere2.xml" tvg-logo="https://api.miboia.com/miboia/img/logo/premiere_2.png" group-title="BN_Esportes",PREMIERE 2 HD 4K
+http://peer2.miboia.com:2082/PFC2_FHD/index.m3u8
+#EXTINF:-1 tvg-name="PREMIERE 3 HD 4K" tvg-id="https://api.miboia.com/epg/brazil/premiere3.xml" tvg-logo="https://api.miboia.com/miboia/img/logo/premiere_3.png" group-title="BN_Esportes",PREMIERE 3 HD 4K
+http://peer2.miboia.com:2082/PFC3_FHD/index.m3u8
+#EXTINF:-1 tvg-name="PREMIERE 4 HD 4K" tvg-id="https://api.miboia.com/epg/brazil/premiere4.xml" tvg-logo="https://api.miboia.com/miboia/img/logo/premiere_4.png" group-title="BN_Esportes",PREMIERE 4 HD 4K
+http://peer2.miboia.com:2082/PFC4_FHD/index.m3u8
+#EXTINF:-1 tvg-name="PREMIERE 5 HD 4K" tvg-id="https://api.miboia.com/epg/brazil/premiere5.xml" tvg-logo="https://api.miboia.com/miboia/img/logo/premiere_5.png" group-title="BN_Esportes",PREMIERE 5 HD 4K
+http://peer2.miboia.com:2082/PFC5_FHD/index.m3u8
+#EXTINF:-1 tvg-name="PREMIERE 6 HD 4K" tvg-id="https://api.miboia.com/epg/brazil/premiere6.xml" tvg-logo="https://api.miboia.com/miboia/img/logo/premiere_6.png" group-title="BN_Esportes",PREMIERE 6 HD 4K
+http://peer2.miboia.com:2082/PFC6_FHD/index.m3u8
+#EXTINF:-1 tvg-name="PREMIERE 7 HD 4K" tvg-id="https://api.miboia.com/epg/brazil/premiere7.xml" tvg-logo="https://api.miboia.com/miboia/img/logo/premiere_7.png" group-title="BN_Esportes",PREMIERE 7 HD 4K
+http://peer2.miboia.com:2082/PFC7_FHD/index.m3u8
+#EXTINF:-1 tvg-name="SPORTV 1 HD 4K" tvg-id="https://api.miboia.com/miboia/epg/files/xmltv_SporTV_HD.xml" tvg-logo="https://api.miboia.com/miboia/img/logo/sportv1.png" group-title="BN_Esportes",SPORTV 1 HD 4K
+http://peer2.miboia.com:2082/SPORTV1_FHD/index.m3u8
+#EXTINF:-1 tvg-name="SPORTV 2 HD 4K" tvg-id="https://api.miboia.com/miboia/epg/files/xmltv_SporTV_2_HD.xml" tvg-logo="https://api.miboia.com/miboia/img/logo/sportv2.png" group-title="BN_Esportes",SPORTV 2 HD 4K
+http://peer2.miboia.com:2082/SPORTV2_FHD/index.m3u8
+#EXTINF:-1 tvg-name="SPORTV 3 HD 4K" tvg-id="https://api.miboia.com/miboia/epg/files/xmltv_SporTV_3_HD.xml" tvg-logo="https://api.miboia.com/miboia/img/logo/sportv3.png" group-title="BN_Esportes",SPORTV 3 HD 4K
+http://peer2.miboia.com:2082/SPORTV3_FHD/index.m3u8
+#EXTINF:-1 tvg-name="WOOHOO HD 4K" tvg-id="https://api.miboia.com/miboia/epg/files/xmltv_WooHoo.xml" tvg-logo="https://api.miboia.com/miboia/img/logo/woohoo-br.png" group-title="BN_Esportes",WOOHOO HD 4K
+http://peer2.miboia.com:2082/WOOHOO_FHD/index.m3u8
+#EXTINF:-1 tvg-name="AMC HD 4K" tvg-id="https://api.miboia.com/miboia/epg/files/xmltv_AMC_HD.xml" tvg-logo="https://api.miboia.com/miboia/img/logo/amc.png" group-title="BN_Filmes",AMC HD 4K
+http://peer2.miboia.com:2082/AMC_FHD/index.m3u8
+#EXTINF:-1 tvg-name="CANAL BRASIL HD 4K" tvg-id="https://api.miboia.com/miboia/epg/files/xmltv_Canal_Brasil.xml" tvg-logo="https://api.miboia.com/miboia/img/logo/canal-brasil-br.png" group-title="BN_Filmes",CANAL BRASIL HD 4K
+http://peer2.miboia.com:2082/CANALBRASIL_FHD/index.m3u8
+#EXTINF:-1 tvg-name="CINECANAL HD 4K" tvg-id="https://api.miboia.com/miboia/epg/files/xmltv_CINECANAL.xml" tvg-logo="https://api.miboia.com/miboia/img/logo/cine-canal-br.png" group-title="BN_Filmes",CINECANAL HD 4K
+http://peer2.miboia.com:2082/CINECANAL_FHD/index.m3u8
+#EXTINF:-1 tvg-name="CINEMAX HD 4K" tvg-id="https://api.miboia.com/miboia/epg/files/xmltv_Cinemax_HD.xml" tvg-logo="https://api.miboia.com/miboia/img/logo/cinemax-br.png" group-title="BN_Filmes",CINEMAX HD 4K
+http://peer2.miboia.com:2082/CINEMAX_FHD/index.m3u8
+#EXTINF:-1 tvg-name="FILM&ARTS HD 4K" tvg-id="https://api.miboia.com/epg/brazil/filmarts.xml" tvg-logo="https://api.miboia.com/logos/icon2/film-arts.png" group-title="BN_Filmes",FILM&ARTS HD 4K
+http://peer2.miboia.com:2082/FILMEARTES_FHD/index.m3u8
+#EXTINF:-1 tvg-name="HBO FAMILY HD 4K" tvg-id="https://api.miboia.com/miboia/epg/files/xmltv_HBO_Family.xml" tvg-logo="https://api.miboia.com/miboia/img/logo/hbo-family-br.png" group-title="BN_Filmes",HBO FAMILY HD 4K
+http://peer2.miboia.com:2082/HBOFAMILY_FHD/index.m3u8
+#EXTINF:-1 tvg-name="HBO MUNDI HD 4K" tvg-id="https://api.miboia.com/miboia/epg/files/xmltv_HBO_Mundi.xml" tvg-logo="https://api.miboia.com/miboia/img/logo/hbo-mundi-br.png" group-title="BN_Filmes",HBO MUNDI HD 4K
+http://peer2.miboia.com:2082/HBOMUNDI_FHD/index.m3u8
+#EXTINF:-1 tvg-name="HBO PLUS HD 4K" tvg-id="https://api.miboia.com/miboia/epg/files/xmltv_HBO_Plus.xml" tvg-logo="https://api.miboia.com/miboia/img/logo/hbo-plus-br.png" group-title="BN_Filmes",HBO PLUS HD 4K
+http://peer2.miboia.com:2082/HBOPLUS_FHD/index.m3u8
+#EXTINF:-1 tvg-name="HBO POP HD 4K" tvg-id="https://api.miboia.com/miboia/epg/files/xmltv_HBO_Pop.xml" tvg-logo="https://api.miboia.com/miboia/img/logo/hbo-pop-br.png" group-title="BN_Filmes",HBO POP HD 4K
+http://peer2.miboia.com:2082/HBOPOP_FHD/index.m3u8
+#EXTINF:-1 tvg-name="HBO SIGNATURE HD 4K" tvg-id="https://api.miboia.com/miboia/epg/files/xmltv_HBO_Signature.xml" tvg-logo="https://api.miboia.com/miboia/img/logo/hbo-signature-br.png" group-title="BN_Filmes",HBO SIGNATURE HD 4K
+http://peer2.miboia.com:2082/HBOSIGNATURE_FHD/index.m3u8
+#EXTINF:-1 tvg-name="HBO XTREME HD 4K" tvg-id="https://api.miboia.com/miboia/epg/files/xmltv_HBO_Xtreme.xml" tvg-logo="https://api.miboia.com/miboia/img/logo/hbo-xtreme-br.png" group-title="BN_Filmes",HBO XTREME HD 4K
+http://peer2.miboia.com:2082/HBOXTREME_FHD/index.m3u8
+#EXTINF:-1 tvg-name="HBO1 HD 4K" tvg-id="https://api.miboia.com/miboia/epg/files/xmltv_HBO_HD.xml" tvg-logo="https://api.miboia.com/miboia/img/logo/hbo-br.png" group-title="BN_Filmes",HBO1 HD 4K
+http://peer2.miboia.com:2082/HBO_FHD/index.m3u8
+#EXTINF:-1 tvg-name="HBO2 HD 4K" tvg-id="https://api.miboia.com/miboia/epg/files/xmltv_HBO_2.xml" tvg-logo="https://api.miboia.com/miboia/img/logo/hbo-2-br.png" group-title="BN_Filmes",HBO2 HD 4K
+http://peer2.miboia.com:2082/HBO2_FHD/index.m3u8
+#EXTINF:-1 tvg-name="MEGAPIX HD 4K" tvg-id="https://api.miboia.com/epg/brazil/mpx_xmltv.xml" tvg-logo="https://api.miboia.com/miboia/img/logo/megapix-br.png" group-title="BN_Filmes",MEGAPIX HD 4K
+http://peer2.miboia.com:2082/MEGAPIX_FHD/index.m3u8
+#EXTINF:-1 tvg-name="PARAMOUNT NETWORK HD 4K" tvg-id="https://api.miboia.com/miboia/epg/files/xmltv_Paramount_Network.xml" tvg-logo="https://api.miboia.com/logos/icon2/paramounthd.png" group-title="BN_Filmes",PARAMOUNT NETWORK HD 4K
+http://peer2.miboia.com:2082/PARAMOUNTNETWORK_FHD/index.m3u8
+#EXTINF:-1 tvg-name="SPACE HD 4K" tvg-id="https://api.miboia.com/miboia/epg/files/xmltv_Space_HD.xml" tvg-logo="https://api.miboia.com/logos/img_white/space.png" group-title="BN_Filmes",SPACE HD 4K
+http://peer2.miboia.com:2082/SPACE_FHD/index.m3u8
+#EXTINF:-1 tvg-name="STUDIO HD 4K" tvg-id="https://api.miboia.com/miboia/epg/files/xmltv_Studio_Universal.xml" tvg-logo="https://api.miboia.com/logos/icon2/studiouniversalhd.png" group-title="BN_Filmes",STUDIO HD 4K
+http://peer2.miboia.com:2082/STUDIOUNIVERSAL_FHD/index.m3u8
+#EXTINF:-1 tvg-name="TC ACTION HD 4K" tvg-id="https://api.miboia.com/miboia/epg/files/xmltv_Telecine_Action_HD.xml" tvg-logo="https://api.miboia.com/miboia/img/logo/tele-cine-action-br.png" group-title="BN_Filmes",TC ACTION HD 4K
+http://peer2.miboia.com:2082/TCACTION_FHD/index.m3u8
+#EXTINF:-1 tvg-name="TC CULT HD 4K" tvg-id="https://api.miboia.com/miboia/epg/files/xmltv_Telecine_Cult_HD.xml" tvg-logo="https://api.miboia.com/miboia/img/logo/tele-cine-cult-br.png" group-title="BN_Filmes",TC CULT HD 4K
+http://peer2.miboia.com:2082/TCCULT_FHD/index.m3u8
+#EXTINF:-1 tvg-name="TC FUN HD 4K" tvg-id="https://api.miboia.com/miboia/epg/files/xmltv_Telecine_Fun_HD.xml" tvg-logo="https://api.miboia.com/miboia/img/logo/tele-cine-fun-br.png" group-title="BN_Filmes",TC FUN HD 4K
+http://peer2.miboia.com:2082/TCFUN_FHD/index.m3u8
+#EXTINF:-1 tvg-name="TC PIPOCA HD 4K" tvg-id="https://api.miboia.com/miboia/epg/files/xmltv_Telecine_Pipoca_HD.xml" tvg-logo="https://api.miboia.com/miboia/img/logo/tele-cine-pipoca-br.png" group-title="BN_Filmes",TC PIPOCA HD 4K
+http://peer2.miboia.com:2082/TCPIPOCA_FHD/index.m3u8
+#EXTINF:-1 tvg-name="TC PREMIUM HD 4K" tvg-id="https://api.miboia.com/miboia/epg/files/xmltv_Telecine_Premium_HD.xml" tvg-logo="https://api.miboia.com/miboia/img/logo/tele-cine-premium-br.png" group-title="BN_Filmes",TC PREMIUM HD 4K
+http://peer2.miboia.com:2082/TCPREMIUM_FHD/index.m3u8
+#EXTINF:-1 tvg-name="TC TOUCH HD 4K" tvg-id="https://api.miboia.com/miboia/epg/files/xmltv_Telecine_Touch_HD.xml" tvg-logo="https://api.miboia.com/miboia/img/logo/tele-cine-touch-br.png" group-title="BN_Filmes",TC TOUCH HD 4K
+http://peer2.miboia.com:2082/TCTOUCH_FHD/index.m3u8
+#EXTINF:-1 tvg-name="TCM HD 4K" tvg-id="https://api.miboia.com/miboia/epg/files/xmltv_TCM.xml" tvg-logo="https://api.miboia.com/miboia/img/logo/tcm-br.png" group-title="BN_Filmes",TCM HD 4K
+http://peer2.miboia.com:2082/TCM_FHD/index.m3u8
+#EXTINF:-1 tvg-name="TNT  HD 4K" tvg-id="https://api.miboia.com/miboia/epg/files/xmltv_TNT_HD.xml" tvg-logo="https://api.miboia.com/miboia/img/logo/tnt-br.png" group-title="BN_Filmes",TNT  HD 4K
+http://peer2.miboia.com:2082/TNT_FHD/index.m3u8
+#EXTINF:-1 tvg-name="UNIVERSAL TV HD 4K" tvg-id="https://api.miboia.com/miboia/epg/files/xmltv_Universal_TV.xml" tvg-logo="https://api.miboia.com/miboia/img/logo/universal-tv-br.png" group-title="BN_Filmes",UNIVERSAL TV HD 4K
+http://peer2.miboia.com:2082/UNIVERSAL_FHD/index.m3u8
+#EXTINF:-1 tvg-name="USA HD 4K" tvg-id="https://api.miboia.com/miboia/epg/files/xmltv_USA.xml" tvg-logo="https://api.miboia.com/miboia/img/logo/usa-br.png" group-title="BN_Filmes",USA HD 4K
+http://peer2.miboia.com:2082/USA_FHD/index.m3u8
+#EXTINF:-1 tvg-name="BABYTV HD" tvg-id="https://api.miboia.com/miboia/epg/files/xmltv_Baby_TV.xml" tvg-logo="https://img.miboia.com/api_v4/freesky/image/BabyTV.PNG" group-title="BN_Infantil",BABYTV HD
+http://peer2.miboia.com:2082/BABYTV_HD_N/index.m3u8
+#EXTINF:-1 tvg-name="BABYTV HD 4K" tvg-id="https://api.miboia.com/miboia/epg/files/xmltv_Baby_TV.xml" tvg-logo="https://img.miboia.com/api_v4/freesky/image/BabyTV.PNG" group-title="BN_Infantil",BABYTV HD 4K
+http://peer2.miboia.com:2082/BABYTV_FHD/index.m3u8
+#EXTINF:-1 tvg-name="CARTOON HD" tvg-id="https://api.miboia.com/miboia/epg/files/xmltv_Cartoon_Network.xml" tvg-logo="https://api.miboia.com/miboia/img/logo/cartoon-network-br.png" group-title="BN_Infantil",CARTOON HD
+http://peer2.miboia.com:2082/__CARTOON/index.m3u8
+#EXTINF:-1 tvg-name="CARTOON HD 4K" tvg-id="https://api.miboia.com/miboia/epg/files/xmltv_Cartoon_Network.xml" tvg-logo="https://api.miboia.com/miboia/img/logo/cartoon-network-br.png" group-title="BN_Infantil",CARTOON HD 4K
+http://peer2.miboia.com:2082/CARTOON_FHD/index.m3u8
+#EXTINF:-1 tvg-name="CARTOONITO HD 4K" tvg-id="https://api.miboia.com/miboia/epg/files/xmltv_Cartoonito.xml" tvg-logo="https://api.miboia.com/miboia/img/logo/cartoonito-br.png" group-title="BN_Infantil",CARTOONITO HD 4K
+http://peer2.miboia.com:2082/CARTOONITO_FHD/index.m3u8
+#EXTINF:-1 tvg-name="DISC KIDS HD 4K" tvg-id="https://api.miboia.com/miboia/epg/files/xmltv_Discovery_Kids.xml" tvg-logo="https://img.miboia.com/api_v4/freesky/image/DisckKids.png" group-title="BN_Infantil",DISC KIDS HD 4K
+http://peer2.miboia.com:2082/DISCKIDS_FHD/index.m3u8
+#EXTINF:-1 tvg-name="DISNEY HD 4K" tvg-id="https://api.miboia.com/miboia/epg/files/xmltv_Disney.xml" tvg-logo="https://img.miboia.com/api_v4/freesky/image/DisneyChannel.png" group-title="BN_Infantil",DISNEY HD 4K
+http://peer2.miboia.com:2082/DISNEY_FHD/index.m3u8
+#EXTINF:-1 tvg-name="GLOOB HD 4K" tvg-id="https://api.miboia.com/miboia/epg/files/xmltv_Gloob_HD.xml" tvg-logo="https://api.miboia.com/logos/icon2/gloobhd.png" group-title="BN_Infantil",GLOOB HD 4K
+http://peer2.miboia.com:2082/GLOOB_FHD/index.m3u8
+#EXTINF:-1 tvg-name="GLOOBINHO HD 4K" tvg-id="https://api.miboia.com/miboia/epg/files/xmltv_Gloobinho.xml" tvg-logo="https://api.miboia.com/logos/img_white/gloobinho.png" group-title="BN_Infantil",GLOOBINHO HD 4K
+http://peer2.miboia.com:2082/GLOOBINHO_FHD/index.m3u8
+#EXTINF:-1 tvg-name="NICK HD 4K" tvg-id="https://api.miboia.com/miboia/epg/files/xmltv_Nick_HD.xml" tvg-logo="https://api.miboia.com/logos/icon2/nickhd.png" group-title="BN_Infantil",NICK HD 4K
+http://peer2.miboia.com:2082/NICK_FHD/index.m3u8
+#EXTINF:-1 tvg-name="NICK JR HD 4K" tvg-id="https://api.miboia.com/miboia/epg/files/xmltv_Nick_Jr.xml" tvg-logo="https://api.miboia.com/logos/icon2/nickjr.png" group-title="BN_Infantil",NICK JR HD 4K
+http://peer2.miboia.com:2082/NICKJR_FHD/index.m3u8
+#EXTINF:-1 tvg-name="RETROCARTOON HD" tvg-id="https://api.miboia.com/epg/brazil/retrocartoon.xml" tvg-logo="https://api.miboia.com/logos/img_white/Retro-Cartoon.png" group-title="BN_Infantil",RETROCARTOON HD
+http://peer2.miboia.com:2082/RETROCARTOON_HD_N/index.m3u8
+#EXTINF:-1 tvg-name="RETROCARTOON HD 4K" tvg-id="https://api.miboia.com/epg/brazil/retrocartoon.xml" tvg-logo="https://api.miboia.com/logos/img_white/Retro-Cartoon.png" group-title="BN_Infantil",RETROCARTOON HD 4K
+http://peer2.miboia.com:2082/RETROCARTOON_HD_N/index.m3u8
+#EXTINF:-1 tvg-name="TOONCAST HD 4K" tvg-id="https://api.miboia.com/miboia/epg/files/xmltv_Tooncast.xml" tvg-logo="https://api.miboia.com/logos/icon2/tooncast.png" group-title="BN_Infantil",TOONCAST HD 4K
+http://peer2.miboia.com:2082/TOONCAST_FHD/index.m3u8
+#EXTINF:-1 tvg-name="ZOOMOO KIDS HD 4K" tvg-id="https://api.miboia.com/miboia/epg/files/xmltv_ZooMoo_Kids.xml" tvg-logo="https://api.miboia.com/miboia/img/logo/zoomoo-kids-br.png" group-title="BN_Infantil",ZOOMOO KIDS HD 4K
+http://peer2.miboia.com:2082/ZOOMOO_FHD/index.m3u8
+#EXTINF:-1 tvg-name="BAND NEWS HD 4K" tvg-id="https://api.miboia.com/miboia/epg/files/xmltv_BandNews.xml" tvg-logo="https://api.miboia.com/miboia/img/logo/band-news-br.png" group-title="BN_Jornalismo",BAND NEWS HD 4K
+http://peer2.miboia.com:2082/BANDNEWS_FHD/index.m3u8
+#EXTINF:-1 tvg-name="CNN BRASIL HD 4K" tvg-id="https://api.miboia.com/miboia/epg/files/xmltv_CNN_BRASIL.xml" tvg-logo="https://api.miboia.com/logos/icon2/cnn-brasil_.png" group-title="BN_Jornalismo",CNN BRASIL HD 4K
+http://peer2.miboia.com:2082/CNNBRASIL_FHD/index.m3u8
+#EXTINF:-1 tvg-name="GLOBONEWS HD" tvg-id="https://api.miboia.com/epg/brazil/gloo_xmltv.xml" tvg-logo="https://api.miboia.com/logos/icon2/globonewshd.png" group-title="BN_Jornalismo",GLOBONEWS HD
+http://peer2.miboia.com:2082/GLOBONEWS_HD_N/index.m3u8
+#EXTINF:-1 tvg-name="GLOBONEWS HD 4K" tvg-id="https://api.miboia.com/epg/brazil/gloo_xmltv.xml" tvg-logo="https://api.miboia.com/logos/icon2/globonewshd.png" group-title="BN_Jornalismo",GLOBONEWS HD 4K
+http://peer2.miboia.com:2082/GLOBONEWS_FHD/index.m3u8
+#EXTINF:-1 tvg-name="JOVEM PAN NEWS HD 4K" tvg-id="https://api.miboia.com/miboia/epg/files/xmltv_Jovem_Pan_News.xml" tvg-logo="https://api.miboia.com/miboia/img/logo/jovem_pan_news_logo.png" group-title="BN_Jornalismo",JOVEM PAN NEWS HD 4K
+http://peer2.miboia.com:2082/JOVEMPAN_FHD/index.m3u8
+#EXTINF:-1 tvg-name="RECORD NEWS HD 4k" tvg-id="https://api.miboia.com/miboia/epg/files/xmltv_Record_News.xml" tvg-logo="https://api.miboia.com/logos/icon2/recordnews.png" group-title="BN_Jornalismo",RECORD NEWS HD 4k
+http://peer2.miboia.com:2082/RECORDNEWS_FHD/index.m3u8
+#EXTINF:-1 tvg-name="NHK HD" tvg-id="https://api.miboia.com/epg/brazil/nhk.xml" tvg-logo="https://api.miboia.com/logos/img_white/nhkworldtv.png" group-title="BN_Mundo",NHK HD
+http://peer2.miboia.com:2082/NHK/index.m3u8
+#EXTINF:-1 tvg-name="NHK HD 4K" tvg-id="https://api.miboia.com/epg/brazil/nhk.xml" tvg-logo="https://api.miboia.com/logos/img_white/nhkworldtv.png" group-title="BN_Mundo",NHK HD 4K
+http://peer2.miboia.com:2082/NHK/index.m3u8
+#EXTINF:-1 tvg-name="TVE HD" tvg-id="https://api.miboia.com/miboia/epg/files/xmltv_TVE.xml" tvg-logo="https://api.miboia.com/logos/icon2/tve.png" group-title="BN_Mundo",TVE HD
+http://peer2.miboia.com:2082/TVE_HD_N/index.m3u8
+#EXTINF:-1 tvg-name="TVE HD 4K" tvg-id="https://api.miboia.com/miboia/epg/files/xmltv_TVE.xml" tvg-logo="https://api.miboia.com/logos/icon2/tve.png" group-title="BN_Mundo",TVE HD 4K
+http://peer2.miboia.com:2082/TVE_HD_N/index.m3u8
+#EXTINF:-1 tvg-name="TELEFUTURO HD 4K" tvg-id="https://api.miboia.com/miboia/epg/files/xmltv_TVE.xml" tvg-logo="https://api.miboia.com/miboia/img/logo/telefuturo.png" group-title="BN_Mundo",TELEFUTURO HD 4K
+http://peer2.miboia.com:2082/ISAT_FHD/index.m3u8
+#EXTINF:-1 tvg-name="SNT HD 4K" tvg-id="https://api.miboia.com/miboia/epg/files/xmltv_TVE.xml" tvg-logo="https://api.miboia.com/miboia/img/logo/snt.png" group-title="BN_Mundo",SNT HD 4K
+http://peer2.miboia.com:2082/SNT_PY/index.m3u8
+#EXTINF:-1 tvg-name="C9N HD 4K" tvg-id="https://api.miboia.com/miboia/epg/files/xmltv_TVE.xml" tvg-logo="https://api.miboia.com/miboia/img/logo/c9n.png" group-title="BN_Mundo",C9N HD 4K
+http://peer2.miboia.com:2082/C9N_PY/index.m3u8
+#EXTINF:-1 tvg-name="LATELE HD 4K" tvg-id="https://api.miboia.com/miboia/epg/files/xmltv_TVE.xml" tvg-logo="https://api.miboia.com/miboia/img/logo/latele.png" group-title="BN_Mundo",LATELE HD 4K
+http://peer2.miboia.com:2082/LATELE_PY_FHD/index.m3u8
+#EXTINF:-1 tvg-name="MTV 00 HD 4K" tvg-id="https://api.miboia.com/miboia/epg/files/xmltv_MTV_Live.xml" tvg-logo="https://api.miboia.com/miboia/img/logo/mtv-00s-ar.png" group-title="BN_Música",MTV 00 HD 4K
+http://peer2.miboia.com:2082/MTV00_FHD/index.m3u8
+#EXTINF:-1 tvg-name="MUSIC BOX BRASIL HD 4K" tvg-id="https://api.miboia.com/miboia/epg/files/xmltv_Music_Box_Brazil.xml" tvg-logo="https://api.miboia.com/logos/icon2/musicboxbrazil.png" group-title="BN_Música",MUSIC BOX BRASIL HD 4K
+http://peer2.miboia.com:2082/MUSICBOXBRASIL_FHD/index.m3u8
+#EXTINF:-1 tvg-name="NOVO TEMPO HD" tvg-id="https://api.miboia.com/miboia/epg/files/xmltv_TV_Novo_Tempo.xml" tvg-logo="http://3.bp.blogspot.com/-RkIHzxI3mY8/WQInXgD_EHI/AAAAAAAAAmU/LHQiAvU4pt0A6jcNpHPuaRJh5UFqwFIJgCLcB/s1600/Novo-Tempo-comeca-novo-programa-sobre-criacionismo-300x210.png" group-title="BN_Religiosos",NOVO TEMPO HD
+http://peer2.miboia.com:2082/NOVOTEMPO_HD_N/index.m3u8
+#EXTINF:-1 tvg-name="NOVO TEMPO HD 4K" tvg-id="https://api.miboia.com/miboia/epg/files/xmltv_TV_Novo_Tempo.xml" tvg-logo="http://3.bp.blogspot.com/-RkIHzxI3mY8/WQInXgD_EHI/AAAAAAAAAmU/LHQiAvU4pt0A6jcNpHPuaRJh5UFqwFIJgCLcB/s1600/Novo-Tempo-comeca-novo-programa-sobre-criacionismo-300x210.png" group-title="BN_Religiosos",NOVO TEMPO HD 4K
+http://peer2.miboia.com:2082/NOVOTEMPO_HD_N/index.m3u8
+#EXTINF:-1 tvg-name="REDE SECULO 21 HD" tvg-id="https://api.miboia.com/epg/brazil/sec21.xml" tvg-logo="https://api.miboia.com/logos/img_white/rs21.png" group-title="BN_Religiosos",REDE SECULO 21 HD
+http://peer2.miboia.com:2082/SECULO21_HD_N/index.m3u8
+#EXTINF:-1 tvg-name="REDE SECULO 21 HD 4K" tvg-id="https://api.miboia.com/epg/brazil/sec21.xml" tvg-logo="https://api.miboia.com/logos/img_white/rs21.png" group-title="BN_Religiosos",REDE SECULO 21 HD 4K
+http://peer2.miboia.com:2082/SECULO21_HD_N/index.m3u8
+#EXTINF:-1 tvg-name="REDE VIDA HD" tvg-id="https://api.miboia.com/miboia/epg/files/xmltv_Rede_Vida.xml" tvg-logo="https://api.miboia.com/logos/img_white/rede-vidaHD.png" group-title="BN_Religiosos",REDE VIDA HD
+http://peer2.miboia.com:2082/REDEVIDA_HD_N/index.m3u8
+#EXTINF:-1 tvg-name="REDE VIDA HD 4K" tvg-id="https://api.miboia.com/miboia/epg/files/xmltv_Rede_Vida.xml" tvg-logo="https://api.miboia.com/logos/img_white/rede-vidaHD.png" group-title="BN_Religiosos",REDE VIDA HD 4K
+http://peer2.miboia.com:2082/REDEVIDA_FHD/index.m3u8
+#EXTINF:-1 tvg-name="TV EVANGELIZAR HD" tvg-id="https://api.miboia.com/epg/brazil/evangelizar.xml" tvg-logo="https://api.miboia.com/logos/img_white/TV_Evangelizar.png" group-title="BN_Religiosos",TV EVANGELIZAR HD
+http://peer2.miboia.com:2082/TvEvangelizar_HD_N/index.m3u8
+#EXTINF:-1 tvg-name="TV EVANGELIZAR HD 4K" tvg-id="https://api.miboia.com/epg/brazil/evangelizar.xml" tvg-logo="https://api.miboia.com/logos/img_white/TV_Evangelizar.png" group-title="BN_Religiosos",TV EVANGELIZAR HD 4K
+http://peer2.miboia.com:2082/TvEvangelizar_HD_N/index.m3u8
+#EXTINF:-1 tvg-name="TV MARANATA HD" tvg-id="https://api.miboia.com/miboia/epg/files/xmltv_TVE.xml" tvg-logo="https://api.miboia.com/miboia/img/logo/maranata_2.png" group-title="BN_Religiosos",TV MARANATA HD
+http://peer2.miboia.com:2082/MARANATA_FHD/index.m3u8
+#EXTINF:-1 tvg-name="TV MARANATA HD 4K" tvg-id="https://api.miboia.com/miboia/epg/files/xmltv_TVE.xml" tvg-logo="https://api.miboia.com/miboia/img/logo/maranata_2.png" group-title="BN_Religiosos",TV MARANATA HD 4K
+http://peer2.miboia.com:2082/MARANATA_FHD/index.m3u8
+#EXTINF:-1 tvg-name="TV PAI ETERNO HD" tvg-id="https://api.miboia.com/miboia/epg/files/xmltv_TVE.xml" tvg-logo="https://api.miboia.com/miboia/img/logo/tv-pai-eterno.png" group-title="BN_Religiosos",TV PAI ETERNO HD
+http://peer2.miboia.com:2082/TVPAIETERNO_HD_N/index.m3u8
+#EXTINF:-1 tvg-name="TV PAI ETERNO HD 4K" tvg-id="https://api.miboia.com/miboia/epg/files/xmltv_TVE.xml" tvg-logo="https://api.miboia.com/miboia/img/logo/tv-pai-eterno.png" group-title="BN_Religiosos",TV PAI ETERNO HD 4K
+http://peer2.miboia.com:2082/TVPAIETERNO_HD_N/index.m3u8
+#EXTINF:-1 tvg-name="A&E HD" tvg-id="https://api.miboia.com/miboia/epg/files/xmltv_A_E_HD.xml" tvg-logo="https://api.miboia.com/miboia/img/logo/a-and-e-br.png" group-title="BN_Séries",A&E HD
+http://peer2.miboia.com:2082/AE_HD_N/index.m3u8
+#EXTINF:-1 tvg-name="A&E HD 4K" tvg-id="https://api.miboia.com/miboia/epg/files/xmltv_A_E_HD.xml" tvg-logo="https://api.miboia.com/miboia/img/logo/a-and-e-br.png" group-title="BN_Séries",A&E HD 4K
+http://peer2.miboia.com:2082/AE_FHD/index.m3u8
+#EXTINF:-1 tvg-name="AXN HD" tvg-id="https://api.miboia.com/epg/brazil/axh_xmltv.xml" tvg-logo="https://api.miboia.com/miboia/img/logo/axn-br.png" group-title="BN_Séries",AXN HD
+http://peer2.miboia.com:2082/AXN_HD_N/index.m3u8
+#EXTINF:-1 tvg-name="AXN HD 4K" tvg-id="https://api.miboia.com/epg/brazil/axh_xmltv.xml" tvg-logo="https://api.miboia.com/miboia/img/logo/axn-br.png" group-title="BN_Séries",AXN HD 4K
+http://peer2.miboia.com:2082/AXN_FHD/index.m3u8
+#EXTINF:-1 tvg-name="COMEDY CENTRAL HD 4K" tvg-id="https://api.miboia.com/miboia/epg/files/xmltv_Comedy_Central_HD.xml" tvg-logo="https://img.miboia.com/logos/img_white/Comedy_Central_UK.png" group-title="BN_Séries",COMEDY CENTRAL HD 4K
+http://peer2.miboia.com:2082/COMEDYC_FHD/index.m3u8
+#EXTINF:-1 tvg-name="E! HD 4K" tvg-id="https://api.miboia.com/epg/brazil/eeh_xmltv.xml" tvg-logo="https://api.miboia.com/logos/icon2/e.png" group-title="BN_Séries",E! HD 4K
+http://peer2.miboia.com:2082/E_FHD/index.m3u8
+#EXTINF:-1 tvg-name="FX HD 4K" tvg-id="https://api.miboia.com/miboia/epg/files/xmltv_FX_HD.xml" tvg-logo="https://img.miboia.com/api_v4/freesky/image/FXSMALL.png" group-title="BN_Séries",FX HD 4K
+http://peer2.miboia.com:2082/FX_FHD/index.m3u8
+#EXTINF:-1 tvg-name="LIFETIME HD 4K" tvg-id="https://api.miboia.com/epg/brazil/anh_xmltv.xml" tvg-logo="https://img.miboia.com/api_v4/freesky/image/lifetime.png" group-title="BN_Séries",LIFETIME HD 4K
+http://peer2.miboia.com:2082/LIFETIME_FHD/index.m3u8
+#EXTINF:-1 tvg-name="MULTISHOW HD 4K" tvg-id="https://api.miboia.com/miboia/epg/files/xmltv_Multishow_HD.xml" tvg-logo="https://api.miboia.com/logos/icon2/multishowhd.png" group-title="BN_Séries",MULTISHOW HD 4K
+http://peer2.miboia.com:2082/MULTISHOW_FHD/index.m3u8
+#EXTINF:-1 tvg-name="STAR CHANNEL HD 4K" tvg-id="https://api.miboia.com/miboia/epg/files/xmltv_STAR_CHANNEL.xml" tvg-logo="https://img.miboia.com/api_v4/freesky/image/starchannel_branco_1.png" group-title="BN_Séries",STAR CHANNEL HD 4K
+http://peer2.miboia.com:2082/STARPLUS_FHD/index.m3u8
+#EXTINF:-1 tvg-name="TNT NOVELAS HD 4K" tvg-id="https://api.miboia.com/miboia/epg/files/xmltv_TNT_NOVELAS.xml" tvg-logo="https://api.miboia.com/miboia/img/logo/tnt_novelas.png" group-title="BN_Séries",TNT NOVELAS HD 4K
+http://peer2.miboia.com:2082/TNTNOVELAS_FHD/index.m3u8
+#EXTINF:-1 tvg-name="TNT SERIES HD 4K" tvg-id="https://api.miboia.com/miboia/epg/files/xmltv_TNT_Series.xml" tvg-logo="https://img.miboia.com/api_v4/freesky/image/tntseries.png" group-title="BN_Séries",TNT SERIES HD 4K
+http://peer2.miboia.com:2082/TNTSERIES_FHD/index.m3u8
+#EXTINF:-1 tvg-name="WARNER HD 4K" tvg-id="https://api.miboia.com/miboia/epg/files/xmltv_Warner_HD.xml" tvg-logo="https://api.miboia.com/logos/icon2/warnerhd.png" group-title="BN_Séries",WARNER HD 4K
+http://peer2.miboia.com:2082/WARNER_FHD/index.m3u8
